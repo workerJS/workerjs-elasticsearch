@@ -1,0 +1,12 @@
+{
+  "name": "workerjs-elasticsearch",
+  "version": "1.0.0",
+  "description": "Elasticsearch plugin for WorkerJS.",
+  "main": "index.js",
+  "author": "dzimiks",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "elasticsearch": "^15.2.0"
+  }
+}
